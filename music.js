@@ -1,2 +1,2 @@
-export const music1 = ['./audio1/АртемПивоваров-Мираж.mp3', './audio1/Глюкоза-Руки-Бёдра.mp3', './audio1/Aleks Ataman & Finik.Finya - Музыка Играет Громко.mp3', './audio1/ChrisYank-Холодно.mp3', './audio1/melisa_ft_tommo_-_im_alone_2021.mp3', './audio1/NЮ-Никто.mp3']
+export const music1 = ['АртемПивоваров-Мираж', 'Глюкоза-Руки-Бёдра', 'Музыка Играет Громко', 'ChrisYank-Холодно', 'melisa_ft_tommo_-_im_alone_2021', 'NЮ-Никто', 'Sigala - Melody', 'Tove Styrke - Show Me Love', 'Meechy Baby - Get In There', 'LEON - Wishful Thinking', 'Intelligency - Deuce']
 
